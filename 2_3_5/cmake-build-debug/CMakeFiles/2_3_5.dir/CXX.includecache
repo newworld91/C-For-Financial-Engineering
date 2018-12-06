@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stevenovis/CLionProjects/2_3_5/linesegment.cpp
+linesegment.hpp
+/Users/stevenovis/CLionProjects/2_3_5/linesegment.hpp
+
+/Users/stevenovis/CLionProjects/2_3_5/linesegment.hpp
+pointer.hpp
+/Users/stevenovis/CLionProjects/2_3_5/pointer.hpp
+iostream
+-
+cmath
+-
+
+/Users/stevenovis/CLionProjects/2_3_5/main.cpp
+linesegment.hpp
+/Users/stevenovis/CLionProjects/2_3_5/linesegment.hpp
+pointer.hpp
+/Users/stevenovis/CLionProjects/2_3_5/pointer.hpp
+iostream
+-
+
+/Users/stevenovis/CLionProjects/2_3_5/pointer.cpp
+pointer.hpp
+/Users/stevenovis/CLionProjects/2_3_5/pointer.hpp
+cmath
+-
+
+/Users/stevenovis/CLionProjects/2_3_5/pointer.hpp
+iostream
+-
+cmath
+-
+sstream
+-
+string
+-
+

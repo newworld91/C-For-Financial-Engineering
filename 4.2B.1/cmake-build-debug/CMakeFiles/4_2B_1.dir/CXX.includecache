@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stevenovis/CLionProjects/4.2B.1/ArrayException.hpp
+iostream
+-
+
+/Users/stevenovis/CLionProjects/4.2B.1/OutOfBoundsException.hpp
+ArrayException.hpp
+/Users/stevenovis/CLionProjects/4.2B.1/ArrayException.hpp
+sstream
+-
+iostream
+-
+
+/Users/stevenovis/CLionProjects/4.2B.1/array.cpp
+array.h
+/Users/stevenovis/CLionProjects/4.2B.1/array.h
+
+/Users/stevenovis/CLionProjects/4.2B.1/array.h
+OutOfBoundsException.hpp
+/Users/stevenovis/CLionProjects/4.2B.1/OutOfBoundsException.hpp
+
+/Users/stevenovis/CLionProjects/4.2B.1/main.cpp
+array.cpp
+/Users/stevenovis/CLionProjects/4.2B.1/array.cpp
+

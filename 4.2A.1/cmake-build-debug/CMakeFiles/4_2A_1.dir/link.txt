@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/4_2A_1.dir/array.cpp.o CMakeFiles/4_2A_1.dir/main.cpp.o CMakeFiles/4_2A_1.dir/pointer.cpp.o CMakeFiles/4_2A_1.dir/shape.cpp.o  -o 4_2A_1 

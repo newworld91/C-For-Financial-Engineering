@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ProjectA.dir/main.cpp.o CMakeFiles/ProjectA.dir/EuropeanOption.cpp.o CMakeFiles/ProjectA.dir/Pricing.cpp.o  -o ProjectA 

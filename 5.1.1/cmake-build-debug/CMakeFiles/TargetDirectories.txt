@@ -1,0 +1,4 @@
+/Users/stevenovis/CLionProjects/5.1.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/stevenovis/CLionProjects/5.1.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stevenovis/CLionProjects/5.1.1/cmake-build-debug/CMakeFiles/BoostTest.dir
+/Users/stevenovis/CLionProjects/5.1.1/cmake-build-debug/CMakeFiles/5_1_1.dir

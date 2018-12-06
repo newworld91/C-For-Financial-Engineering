@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stevenovis/CLionProjects/5.2/main.cpp
+string
+-
+iostream
+-
+boost/tuple/tuple.hpp
+-
+boost/tuple/tuple_io.hpp
+-
+

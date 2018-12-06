@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stevenovis/CLionProjects/ProjectA/EuropeanOption.cpp
+EuropeanOption.hpp
+/Users/stevenovis/CLionProjects/ProjectA/EuropeanOption.hpp
+
+/Users/stevenovis/CLionProjects/ProjectA/EuropeanOption.hpp
+string
+-
+sstream
+-
+boost/math/distributions/normal.hpp
+-
+boost/math/distributions.hpp
+-
+math.h
+-
+iostream
+-
+
+/Users/stevenovis/CLionProjects/ProjectA/Pricing.cpp
+Pricing.hpp
+/Users/stevenovis/CLionProjects/ProjectA/Pricing.hpp
+
+/Users/stevenovis/CLionProjects/ProjectA/Pricing.hpp
+EuropeanOption.hpp
+/Users/stevenovis/CLionProjects/ProjectA/EuropeanOption.hpp
+
+/Users/stevenovis/CLionProjects/ProjectA/main.cpp
+iostream
+-
+EuropeanOption.hpp
+/Users/stevenovis/CLionProjects/ProjectA/EuropeanOption.hpp
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stevenovis/CLionProjects/3.5.4/line.cpp
+line.hpp
+/Users/stevenovis/CLionProjects/3.5.4/line.hpp
+
+/Users/stevenovis/CLionProjects/3.5.4/line.hpp
+pointer.hpp
+/Users/stevenovis/CLionProjects/3.5.4/pointer.hpp
+
+/Users/stevenovis/CLionProjects/3.5.4/main.cpp
+line.hpp
+/Users/stevenovis/CLionProjects/3.5.4/line.hpp
+shape.hpp
+/Users/stevenovis/CLionProjects/3.5.4/shape.hpp
+pointer.hpp
+/Users/stevenovis/CLionProjects/3.5.4/pointer.hpp
+
+/Users/stevenovis/CLionProjects/3.5.4/pointer.cpp
+pointer.hpp
+/Users/stevenovis/CLionProjects/3.5.4/pointer.hpp
+
+/Users/stevenovis/CLionProjects/3.5.4/pointer.hpp
+shape.hpp
+/Users/stevenovis/CLionProjects/3.5.4/shape.hpp
+
+/Users/stevenovis/CLionProjects/3.5.4/shape.cpp
+shape.hpp
+/Users/stevenovis/CLionProjects/3.5.4/shape.hpp
+
+/Users/stevenovis/CLionProjects/3.5.4/shape.hpp
+stdlib.h
+-
+iostream
+-
+string
+-
+sstream
+-
+

@@ -1,0 +1,13 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/3_5_3.dir/line.cpp.o"
+  "CMakeFiles/3_5_3.dir/main.cpp.o"
+  "CMakeFiles/3_5_3.dir/pointer.cpp.o"
+  "CMakeFiles/3_5_3.dir/shape.cpp.o"
+  "3_5_3.pdb"
+  "3_5_3"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/3_5_3.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

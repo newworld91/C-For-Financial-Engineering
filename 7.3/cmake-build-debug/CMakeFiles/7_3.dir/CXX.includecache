@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stevenovis/CLionProjects/7.3/functinobject.cpp
+functinobject.hpp
+/Users/stevenovis/CLionProjects/7.3/functinobject.hpp
+
+/Users/stevenovis/CLionProjects/7.3/functinobject.hpp
+
+/Users/stevenovis/CLionProjects/7.3/main.cpp
+iostream
+-
+functinobject.cpp
+/Users/stevenovis/CLionProjects/7.3/functinobject.cpp
+vector
+-
+algorithm
+-
+iostream
+-
+

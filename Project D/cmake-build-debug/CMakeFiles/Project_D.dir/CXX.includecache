@@ -1,0 +1,318 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/stevenovis/CLionProjects/Project D/OptionData.hpp
+algorithm
+-
+
+/Users/stevenovis/CLionProjects/Project D/TestMC.cpp
+OptionData.hpp
+/Users/stevenovis/CLionProjects/Project D/OptionData.hpp
+UtilitiesDJD/RNG/NormalGenerator.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/RNG/NormalGenerator.hpp
+UtilitiesDJD/Geometry/Range.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Geometry/Range.cpp
+UtilitiesDJD/VectorsAndMatrices/ArrayMechanisms.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/ArrayMechanisms.cpp
+boost/tuple/tuple.hpp
+-
+boost/tuple/tuple_io.hpp
+-
+cmath
+-
+iostream
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/BitsAndPieces/StringConversions.cpp
+UtilitiesDJD/BitsAndPieces/StringConversions.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/BitsAndPieces/UtilitiesDJD/BitsAndPieces/StringConversions.hpp
+vector
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/MatrixVectorSpace.cpp
+UtilitiesDJD/CompileTimeVectorsAndMatrices/MatrixVectorSpace.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/UtilitiesDJD/CompileTimeVectorsAndMatrices/MatrixVectorSpace.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpace.cpp
+UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpace.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpace.hpp
+cmath
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpaceMechanisms.cpp
+UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpaceMechanisms.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpaceMechanisms.hpp
+UtilitiesDJD/VectorsAndMatrices/MatrixMechanisms.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/MatrixMechanisms.cpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.cpp
+ExcelDriverLite.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.hpp
+stdexcept
+-
+boost/lexical_cast.hpp
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.hpp
+ExcelImports.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelImports.cpp
+UtilitiesDJD/ExceptionClasses/DatasimException.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/UtilitiesDJD/ExceptionClasses/DatasimException.hpp
+UtilitiesDJD/BitsAndPieces/StringConversions.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/UtilitiesDJD/BitsAndPieces/StringConversions.hpp
+list
+-
+vector
+-
+string
+-
+ExcelDriverLite.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.cpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverlite.hpp
+ExcelImports.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelImports.cpp
+UtilitiesDJD/ExceptionClasses/DatasimException.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/UtilitiesDJD/ExceptionClasses/DatasimException.hpp
+UtilitiesDJD/BitsAndPieces/StringConversions.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/UtilitiesDJD/BitsAndPieces/StringConversions.hpp
+list
+-
+vector
+-
+string
+-
+ExcelDriverLite.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.cpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelHelloWorld.cpp
+string
+-
+iostream
+-
+ExcelImports.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelImports.cpp
+atlsafe.h
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/atlsafe.h
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelImports.cpp
+C:/Program Files/Common Files/Microsoft Shared/VBA/VBA6/vbe6ext.olb
+C:/Program Files/Common Files/Microsoft Shared/VBA/VBA6/vbe6ext.olb
+C:/Program Files/Microsoft Office/Office12/EXCEL.EXE
+C:/Program Files/Microsoft Office/Office12/EXCEL.EXE
+C:/Program Files (x86)/Common Files/Microsoft Shared/office14/mso.dll
+C:/Program Files (x86)/Common Files/Microsoft Shared/office14/mso.dll
+C:/Program Files (x86)/Common Files/Microsoft Shared/VBA/VBA6/vbe6ext.olb
+C:/Program Files (x86)/Common Files/Microsoft Shared/VBA/VBA6/vbe6ext.olb
+C:/Program Files (x86)/Microsoft Office/Office14/EXCEL.EXE
+C:/Program Files (x86)/Microsoft Office/Office14/EXCEL.EXE
+C:/Program Files (x86)/Common Files/Microsoft Shared/office14/mso.dll
+C:/Program Files (x86)/Common Files/Microsoft Shared/office14/mso.dll
+C:/Program Files (x86)/Common Files/Microsoft Shared/VBA/VBA6/vbe6ext.olb
+C:/Program Files (x86)/Common Files/Microsoft Shared/VBA/VBA6/vbe6ext.olb
+C:/Program Files (x86)/Microsoft Office/Office14/EXCEL.EXE
+C:/Program Files (x86)/Microsoft Office/Office14/EXCEL.EXE
+C:/Program Files/Common Files/Microsoft Shared/office14/mso.dll
+C:/Program Files/Common Files/Microsoft Shared/office14/mso.dll
+C:/Program Files/Common Files/Microsoft Shared/VBA/VBA6/vbe6ext.olb
+C:/Program Files/Common Files/Microsoft Shared/VBA/VBA6/vbe6ext.olb
+C:/Program Files/Microsoft Office/Office14/EXCEL.EXE
+C:/Program Files/Microsoft Office/Office14/EXCEL.EXE
+C:/Program Files/Microsoft Office/root/VFS/ProgramFilesCommonX86/Microsoft Shared/OFFICE16/MSO.DLL
+C:/Program Files/Microsoft Office/root/VFS/ProgramFilesCommonX86/Microsoft Shared/OFFICE16/MSO.DLL
+C:/Program Files/Microsoft Office/root/VFS/ProgramFilesCommonX86/Microsoft Shared/VBA/VBA6/VBE6EXT.OLB
+C:/Program Files/Microsoft Office/root/VFS/ProgramFilesCommonX86/Microsoft Shared/VBA/VBA6/VBE6EXT.OLB
+C:/Program Files/Microsoft Office/root/Office16/EXCEL.EXE
+C:/Program Files/Microsoft Office/root/Office16/EXCEL.EXE
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestMatrixExcel.cpp
+ExcelDriverlite.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverlite.hpp
+Utilities.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/Utilities.hpp
+boost/numeric/ublas/matrix.hpp
+-
+UtilitiesDJD/VectorsAndMatrices/NestedMatrix.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/UtilitiesDJD/VectorsAndMatrices/NestedMatrix.hpp
+string
+-
+vector
+-
+list
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestMultiCurve.cpp
+ExcelDriverLite.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.hpp
+Utilities.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/Utilities.hpp
+cmath
+-
+list
+-
+string
+-
+vector
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestSingleCurve.cpp
+ExcelDriverLite.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.hpp
+Utilities.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/Utilities.hpp
+cmath
+-
+list
+-
+string
+-
+vector
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestTwoCurve.cpp
+ExcelDriverLite.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.hpp
+Utilities.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/Utilities.hpp
+cmath
+-
+list
+-
+string
+-
+iostream
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestVectorExcel.cpp
+ExcelDriverlite.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverlite.hpp
+Utilities.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/Utilities.hpp
+boost/numeric/ublas/matrix.hpp
+-
+boost/numeric/ublas/io.hpp
+-
+boost/numeric/ublas/matrix_proxy.hpp
+-
+string
+-
+vector
+-
+list
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/Utilities.hpp
+vector
+-
+functional
+-
+iostream
+-
+boost/lexical_cast.hpp
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExceptionClasses/DatasimException.cpp
+UtilitiesDJD/ExceptionClasses/DatasimException.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExceptionClasses/UtilitiesDJD/ExceptionClasses/DatasimException.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Geometry/Range.cpp
+UtilitiesDJD/Geometry/Range.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Geometry/UtilitiesDJD/Geometry/Range.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/RNG/NormalGenerator.cpp
+UtilitiesDJD/RNG/NormalGenerator.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/RNG/UtilitiesDJD/RNG/NormalGenerator.hpp
+cmath
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/RNG/NormalGenerator.hpp
+boost/random.hpp
+-
+boost/random/mersenne_twister.hpp
+-
+boost/random/normal_distribution.hpp
+-
+boost/random/variate_generator.hpp
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/TestArrayMechanisms.cpp
+string
+-
+iostream
+-
+UtilitiesDJD/VectorsAndMatrices/ArrayMechanisms.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/UtilitiesDJD/VectorsAndMatrices/ArrayMechanisms.cpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/TestMatrixMultiplication.cpp
+UtilitiesDJD/VectorsAndMatrices/NumericMatrix.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/UtilitiesDJD/VectorsAndMatrices/NumericMatrix.cpp
+UtilitiesDJD/VectorsAndMatrices/MatrixMechanisms.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/UtilitiesDJD/VectorsAndMatrices/MatrixMechanisms.cpp
+complex
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/TestMatrixVectorSpace.cpp
+UtilitiesDJD/CompileTimeVectorsAndmatrices/VectorSpaceMechanisms.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/UtilitiesDJD/CompileTimeVectorsAndmatrices/VectorSpaceMechanisms.cpp
+UtilitiesDJD/CompileTimeVectorsAndmatrices/MatrixVectorSpace.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/UtilitiesDJD/CompileTimeVectorsAndmatrices/MatrixVectorSpace.cpp
+iostream
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/TestVectorSpace.cpp
+UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpace.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpace.cpp
+UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpaceMechanisms.cpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpaceMechanisms.cpp
+iostream
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/Array.cpp
+UtilitiesDJD/VectorsAndMatrices/Array.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/Array.hpp
+stddef.h
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/ArrayMechanisms.cpp
+UtilitiesDJD/VectorsAndMatrices/ArrayMechanisms.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/ArrayMechanisms.hpp
+iostream
+-
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/ArrayStructure.cpp
+UtilitiesDJD/VectorsAndMatrices/ArrayStructure.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/ArrayStructure.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/FullArray.cpp
+UtilitiesDJD/VectorsAndMatrices/FullArray.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/FullArray.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/FullMatrix.cpp
+UtilitiesDJD/VectorsAndMatrices/FullMatrix.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/FullMatrix.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/Matrix.cpp
+UtilitiesDJD/VectorsAndMatrices/Matrix.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/Matrix.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/MatrixMechanisms.cpp
+UtilitiesDJD/VectorsAndMatrices/MatrixMechanisms.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/MatrixMechanisms.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/MatrixStructure.cpp
+UtilitiesDJD/VectorsAndMatrices/MatrixStructure.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/MatrixStructure.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/NumericMatrix.cpp
+UtilitiesDJD/VectorsAndMatrices/NumericMatrix.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/NumericMatrix.hpp
+
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/Vector.cpp
+UtilitiesDJD/VectorsAndMatrices/Vector.hpp
+/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/UtilitiesDJD/VectorsAndMatrices/Vector.hpp
+

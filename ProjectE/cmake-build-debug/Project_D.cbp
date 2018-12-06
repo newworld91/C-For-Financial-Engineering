@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project_D"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/stevenovis/CLionProjects/Project D/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/stevenovis/CLionProjects/Project D/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/stevenovis/CLionProjects/Project D/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_D">
+				<Option output="/Users/stevenovis/CLionProjects/Project D/cmake-build-debug/Project_D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stevenovis/CLionProjects/Project D/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_D"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_D/fast">
+				<Option output="/Users/stevenovis/CLionProjects/Project D/cmake-build-debug/Project_D" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/stevenovis/CLionProjects/Project D/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../lib/clang/8.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_D/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/Users/stevenovis/CLionProjects/Project\ D/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/OptionData.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/TestMC.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/BitsAndPieces/StringConversions.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/BitsAndPieces/StringConversions.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/MatrixVectorSpace.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/MatrixVectorSpace.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpace.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpace.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpaceMechanisms.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/CompileTimeVectorsAndMatrices/VectorSpaceMechanisms.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelDriverLite.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelHelloWorld.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/ExcelImports.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestMatrixExcel.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestMultiCurve.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestSingleCurve.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestTwoCurve.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/TestVectorExcel.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExcelDriver/Utilities.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExceptionClasses/DatasimException.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/ExceptionClasses/DatasimException.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Geometry/Range.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Geometry/Range.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Matrices/NestedMatrix.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/RNG/NormalGenerator.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/RNG/NormalGenerator.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/TestArrayMechanisms.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/TestMatrixMultiplication.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/TestMatrixVectorSpace.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/Test101/TestVectorSpace.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/Array.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/Array.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/ArrayMechanisms.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/ArrayMechanisms.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/ArrayStructure.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/ArrayStructure.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/FullArray.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/FullArray.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/FullMatrix.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/FullMatrix.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/Matrix.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/Matrix.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/MatrixMechanisms.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/MatrixMechanisms.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/MatrixStructure.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/MatrixStructure.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/NestedMatrix.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/NumericMatrix.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/NumericMatrix.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/Vector.cpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/UtilitiesDJD/VectorsAndMatrices/Vector.hpp">
+			<Option target="Project_D"/>
+		</Unit>
+		<Unit filename="/Users/stevenovis/CLionProjects/Project D/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
