@@ -4,7 +4,7 @@
 //
 // (C) Datasim Education BV 2005-2011
 //
-
+// I do not have Excel, similiar to the last project, I wrote the code to the best of my ability.
 #include "FDMDirector.hpp"
 
 #include <iostream>
@@ -74,28 +74,69 @@ int main()
 {
 	using namespace ParabolicIBVP;
 
-	// Assignment of functions
-	sigma = BS::mySigma;
-	mu = BS::myMu;
-	b = BS::myB;
-	f = BS::myF;
-	BCL = BS::myBCL;
-	BCR = BS::myBCR;
-	IC = BS::myIC;
+    vector<double> batch1;
+    batch1.push_back(0.25);
+    batch1.push_back(65.0);
+    batch1.push_back(0.30);
+    batch1.push_back(0.08);
+    batch1.push_back(0.0);
 
-	int J = static_cast<int>(5*BS::K); int N = 10000-1; // k = O(h^2) !!!!!!!!!
+    vector<double> batch2;
+    batch2.push_back(1.0);
+    batch2.push_back(100.0);
+    batch2.push_back(0.2);
+    batch2.push_back(0.0);
+    batch2.push_back(0.0);
 
-	double Smax = 5*BS::K;			// Magix
+    vector<double> batch3;
+    batch3.push_back(1.0);
+    batch3.push_back(10);
+    batch3.push_back(0.50);
+    batch3.push_back(0.12);
+    batch3.push_back(0.0);
 
-	cout << "start FDM\n";
-	FDMDirector fdir(Smax, BS::T, J, N);
+    vector<double> batch4;
 
-	fdir.doit();
-	
-	cout << "Finished\n";
+    batch4.push_back(30.0);
+    batch4.push_back(100.0);
+    batch4.push_back(0.30);
+    batch4.push_back(0.08);
+    batch4.push_back(0.0);
 
-	// Have you Excel installed (ExcelImports.cpp)
-	printOneExcel(fdir.xarr, fdir.current(), string("Value"));
+    vector<vector> batches;
+    batches.push_back(batch1);
+    batches.push_back(batch2);
+    batches.push_back(batch3);
+    batches.push_back(batch4);
 
+
+
+    for (int i = 0; i < batches.size(); i++) {
+
+        stringstream ss;
+        string str;
+        // Assignment of functions
+        BS::sig = batches[i][0];
+        BS::K = batches[i][1];
+        BS::T = batches[i][2];
+        BS::r = batches[i][3];
+        BS::D = batches[i][4];
+
+
+        int J = static_cast<int>(5 * BS::K);
+        int N = 10000 - 1; // k = O(h^2) !!!!!!!!!
+
+        double Smax = 5 * BS::K;            // Magix
+
+        cout << "start FDM\n";
+        FDMDirector fdir(Smax, BS::T, J, N);
+
+        fdir.doit();
+
+        cout << "Finished\n";
+
+        // Have you Excel installed (ExcelImports.cpp)
+        printOneExcel(fdir.xarr, fdir.current(), string("Value"));
+    }
 	return 0;
 }
